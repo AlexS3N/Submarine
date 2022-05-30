@@ -1,0 +1,6 @@
+framework module Pods_Submarine {
+  umbrella header "Pods-Submarine-umbrella.h"
+
+  export *
+  module * { export * }
+}
